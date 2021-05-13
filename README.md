@@ -1,8 +1,8 @@
 ### console.log('Nícolas Suzigan 👋');
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://intagram.com/nicksuzigan)](https://instagram.com/nicksuzigan) 
+[![Instagram Badge](https://img.shields.io/blue/-Instagram-6633cc?style=flat-blue&labelColor=6633cc&logo=instagram&logoColor=white&link=https://intagram.com/nicksuzigan)](https://instagram.com/nicksuzigan) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin%20-6633cc?style=flat-blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolassuzigan/)](https://www.linkedin.com/in/nicolassuzigan/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.gan.people@gmail.com)](mailto:nicolas.gan.people@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-blue&logo=Gmail&logoColor=white&link=mailto:nicolas.gan.people@gmail.com)](mailto:nicolas.gan.people@gmail.com)
 <!--
 **NicolasSuzigan/NicolasSuzigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
