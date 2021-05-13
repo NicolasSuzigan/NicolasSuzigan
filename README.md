@@ -1,8 +1,8 @@
 ### console.log('Nícolas Suzigan 👋');
 
-[![Instagram Badge](https://img.shields.io/badge/-@nicksuzigan-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://intagram.com/nicksuzigan)](https://instagram.com/nicksuzigan) 
-[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Suzigan-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-suzigan/)](https://www.linkedin.com/in/nicolas-suzigan/) 
-[![Gmail Badge](https://img.shields.io/badge/-nicolas.gan.people@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.gan.people@gmail.com)](mailto:nicolas.gan.people@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://intagram.com/nicksuzigan)](https://instagram.com/nicksuzigan) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolassuzigan/)](https://www.linkedin.com/in/nicolas-suzigan/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.gan.people@gmail.com)](mailto:nicolas.gan.people@gmail.com)
 <!--
 **NicolasSuzigan/NicolasSuzigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
