@@ -1,5 +1,4 @@
-<img align="right" width="300" height="300" src="![prog](https://user-images.githubusercontent.com/28414038/118911172-26f82c80-b8fc-11eb-98e2-8252b50bb70f.png)
-">
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/28414038/118911448-940bc200-b8fc-11eb-9e2c-e943dfc08e09.png">
 
 ### Nícolas Suzigan 🧙 Desenvolvedor web em preparação!
 
