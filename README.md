@@ -1,4 +1,6 @@
-<img align="right" width="400" height="400" src="https://github.com/NicolasSuzigan/NicolasSuzigan/issues/1#issue-896196860">
+<img align="right" width="300" height="300" src="![prog](https://user-images.githubusercontent.com/28414038/118911172-26f82c80-b8fc-11eb-98e2-8252b50bb70f.png)
+">
+
 ### Nícolas Suzigan 🧙 Desenvolvedor web em preparação!
 
 Oii👋, tenho 24 anos, sou apaixonado por desafios e isso me trouxe até a área de TI, sou formado em análise de sistemas com uma especialização em gestão de projetos. Estou focado aprendendo a stack para desenvolvimento web (HTML, CSS E JavaScript, e já mirando em React e Node.js). 
