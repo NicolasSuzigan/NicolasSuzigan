@@ -3,9 +3,9 @@
 # Nícolas Suzigan 🧙 
 ### Desenvolvedor web em preparação!
 
-Oii👋, tenho 24 anos, sou apaixonado por desafios e isso me trouxe até a área de TI, sou formado em análise de sistemas com uma especialização em gestão de projetos. Estou focado aprendendo a stack para desenvolvimento web (HTML, CSS E JavaScript, e já mirando em React e Node.js). 
+Oii👋, tenho 24 anos, sou apaixonado por desafios e isso me trouxe até a área de TI. Sou formado em análise de sistemas com uma especialização em gestão de projetos. Estou focado aprendendo a stack para desenvolvimento web (HTML, CSS E JavaScript, e já mirando em React e Node.js). 
 <br/><br/>
- 💭 Meu sonho é conseguir-me consolidar na área para que, assim possa gerar conteúdo e inspirar novas pessoas ao mercado de tecnologia ajudando a dar os primeiros passos, para isso já estou dando início em alguns textos me organizando para iniciar um blogue com dicas relacionadas ao estudo de programação.
+ 💭 Meu sonho é conseguir me consolidar na área para que assim possa gerar conteúdo e inspirar novas pessoas ao mercado de tecnologia, ajudando a dar os primeiros passos. Para isso já estou dando início em alguns textos me organizando para iniciar um blog com dicas relacionadas ao estudo de programação.
 <br/><br/>
 <details>
   <summary>:zap: Languages Used</summary>
